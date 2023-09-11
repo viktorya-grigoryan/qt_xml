@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>xml/food.xml</file>
+        <file>xml/guard.xml</file>
+        <file>xml/paths.xml</file>
+        <file>xml/results.xml</file>
+    </qresource>
+</RCC>
